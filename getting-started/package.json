@@ -1,0 +1,12 @@
+{
+  "name": "node-hero",
+  "version": "1.0.0",
+  "description": "This project is the result of working through Node Hero through RisingStack Engineering.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
